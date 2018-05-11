@@ -1,4 +1,4 @@
-# Fisher-Sales-Tracker-Summer-2018
+
 <h1>Sales Goals [Volume]<h1>
 <ol>
 	<li>Daily = Must Reach 2-3 Sales Per Day Average by the End of the First Period (30 days)</li>
