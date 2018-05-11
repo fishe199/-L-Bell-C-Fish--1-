@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <th>Lindsay</th>
-    <th>Connor</th>
-    <th>Bell and Fisher</th>
+    <th>Lindsay's Team</th>
+    <th>Connor's Team</th>
+    <th>Bell & Fisher</th>
   </tr>
   <tr>
     <td>1</td>
