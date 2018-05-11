@@ -1,7 +1,6 @@
 # -L-Bell-C-Fish--1-
-In my first published coding assignment using JavaScript (this code), I will be creating an online platform for my girlfriend to expand her photography, design, and fashion business to the world of e-commerce
-<h1>Lindsay Cecelia "Delts" Bell (Why I Love You)</h1>
-<u1>
+<h1>Letter to Delts</h1>
+<ol>
 	<li>You Are the Sweetest Girl I have Ever Met</li>
 	<li>You Consistently (as in 24/7/365) Show me Extreme Levels of Gentleness and Affection</li>
 	<li>You Make Me the Happiest Man on the Planet Regardless of the Situation</li>
@@ -12,4 +11,4 @@ In my first published coding assignment using JavaScript (this code), I will be 
 	<li>Delts Always Challenges Me to be the Best, to Reach the Next Level, to be the Top Seller at Dish this Summer</li>
 	<li>Babe, I Can Barely Put This Shit into Words... but I LOVE YOU MORE THAN WORDS CAN DESCRIBE</li>
 	<li>P.S. I AM COMING HOME AT SOME POINT TO SURPRISE YOU</li>
-</ul>	
+</ol>	
