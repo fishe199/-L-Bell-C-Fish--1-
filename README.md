@@ -1,6 +1,6 @@
 # -L-Bell-C-Fish--1-
-In my first published coding assignment using JavaScript (this code), I will be creating an online platform for my girlfriend to expand her photography, design, and fashion business to the world of e-commerce.
-<h1>Lindsay's Fashion Business</h1>
+In my first published coding assignment using JavaScript (this code), I will be creating an online platform for my girlfriend to expand her photography, design, and fashion business to the world of e-commerce
+Markup:	# Lindsay's Fashion Business #	
 <u1>
 	<li>magazine</li>
 		<li>e-commerce</li>
