@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <IndyCar Driver></th>
-    <th>Odds to Win the Race/th>
-    <th>My Picks</th>
+    <IndyCar Driver</th>
+    <th>Odds to Win the Race</th>
+    <th>My Picks</th> 
   </tr>
   <tr>
     <td>1</td>
